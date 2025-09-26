@@ -4,4 +4,4 @@
 
 ### Stats
 
-![lesilib's GitHub stats](https://github-readme-stats.vercel.app/api?username=;lesilib&show_icons=true&theme=radical)
+![lesilib's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesilib&show_icons=true&theme=radical)
